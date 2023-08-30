@@ -70,3 +70,5 @@ ALTER TABLE HOSPEDES ADD FOREIGN KEY (ID_RESERVA) REFERENCES RESERVAS(ID_RES);</
 <video width="320" height="240" controls>
   <source src="https://github.com/laotsetung/Java-Portfolio/blob/main/HotelAlura/extras/resultado.mp4" type="video/mp4">
 </video>
+
+https://github.com/laotsetung/Java-Portfolio/blob/main/HotelAlura/extras/resultado.mp4
