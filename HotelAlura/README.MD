@@ -67,4 +67,7 @@ ALTER TABLE HOSPEDES ADD FOREIGN KEY (ID_RESERVA) REFERENCES RESERVAS(ID_RES);</
 #Adicionando o usuario principal de utilização do sistema. <br>
 <code>INSERT INTO users (USUARIO, PASS) VALUES('admin','admin');</code>
 
-
+<video width="320" height="240" controls>
+  <source src="extras/resultado.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
