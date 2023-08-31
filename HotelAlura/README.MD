@@ -70,6 +70,6 @@ ALTER TABLE HOSPEDES ADD FOREIGN KEY (ID_RESERVA) REFERENCES RESERVAS(ID_RES);</
 <a href="https://github.com/laotsetung/Java-Portfolio/blob/main/HotelAlura/extras/resultado.mp4"> VIDEO PREVIEW </a>
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/laotsetung/Java-Portfolio/blob/main/HotelAlura/extras/resultado.mp4" type="video/mp4">
+  <source src="extras/resultado.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
