@@ -67,7 +67,3 @@ ALTER TABLE HOSPEDES ADD FOREIGN KEY (ID_RESERVA) REFERENCES RESERVAS(ID_RES);</
 #Adicionando o usuario principal de utilização do sistema. <br>
 <code>INSERT INTO users (USUARIO, PASS) VALUES('admin','admin');</code>
 
-<a href="https://github.com/laotsetung/Java-Portfolio/blob/main/HotelAlura/extras/resultado.mp4"> VIDEO PREVIEW </a>
-
-
-  <img src="extras/resultado.gif">
